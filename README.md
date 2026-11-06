@@ -8,7 +8,6 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.18-black?style=for-the-badge&logo=framer)](https://www.framer.com/motion/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
-**Live Demo:** [https://storied-boba-7dfeee.netlify.app/](https://storied-boba-7dfeee.netlify.app/)
 
 ---
 
