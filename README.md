@@ -8,6 +8,7 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.18-black?style=for-the-badge&logo=framer)](https://www.framer.com/motion/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
+**Live Demo:** [https://lumen-site-kxrm.vercel.app/](https://lumen-site-kxrm.vercel.app/)
 
 ---
 
@@ -74,7 +75,7 @@ lumen-site/
 
 1. Clone the repository and navigate into the project directory:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/akshat-tumkur/lumen-site.git
    cd lumen-site
    ```
 
